@@ -20,7 +20,7 @@ Python version >= 3.6
 
 ``` bash
 # clone the repository
-git clone git@github.com:VideoAnalysis/MSVA.git
+git clone https://github.com/TIBHannover/MSVA.git
 cd MSVA
 conda create -n msva python=3.6
 conda activate msva  
@@ -33,6 +33,8 @@ Extracted features for the datasets can be downloaded as,
 wget -O datasets.tar https://zenodo.org/record/4682137/files/msva_video_summarization.tar
 tar -xvf datasets.tar
 ```
+## The 25 Summe videos
+In case you want to see the origin videos, here is a link I found (https://opendatalab.com/OpenDataLab/SumMe)
 
 ### Dataset Files Structure
 
